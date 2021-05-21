@@ -1,0 +1,7 @@
+Attractor,Associated Cell Fate,Basin Ratio,Attractor Type,atm,p53,mdm2,mdmx,wip1,cycg,pten,p21,akt,cyce,rb,e2f1,p14arf,bcl2,bax,caspases
+,,,,,,,,,,,,,,,,,,,
+1,Cell Cycle Arrest,1,Cyclic,0.571428571,0.428571429,0.571428571,0.714285714,0.428571429,1,0,0.428571429,1,0.571428571,0.428571429,1,0,1,0,0
+,,,,,,,,,,,,,,,,,,,
+Average Node Propensities,,,,,,,,,,,,,,,,,,,
+atm,p53,mdm2,mdmx,wip1,cycg,pten,p21,akt,cyce,rb,e2f1,p14arf,bcl2,bax,caspases,,,,
+0.571428571,0.428571429,0.571428571,0.714285714,0.428571429,1,0,0.428571429,1,0.571428571,0.428571429,1,0,1,0,0,,,,
