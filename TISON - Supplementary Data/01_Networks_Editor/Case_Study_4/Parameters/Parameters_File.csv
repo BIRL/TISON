@@ -1,0 +1,6 @@
+Time Steps:128
+Steady State Precision:0.01
+Number of Simulations:5000
+Upper Boundary:3.0
+Gene on x-axis:AFP
+Gene on y-axis:AFP
