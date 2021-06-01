@@ -4,3 +4,7 @@ Number of Simulations:5000
 Upper Boundary:3.0
 Gene on x-axis:AFP
 Gene on y-axis:AFP
+Activator Strength0.37
+Inhibitor Strength:0.5
+Hill Coefficient:3
+Rate Constant:0.5
