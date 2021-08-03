@@ -1,7 +1,6 @@
 Degradation Constant:0.001
-Sampling Rate:N/A
 Noise:5
-Time Steps:500
+Max Iterations:500
 Precision:0.00000001
-Prune State Space:N/A
+Number of States:N/A
 Heuristic:false

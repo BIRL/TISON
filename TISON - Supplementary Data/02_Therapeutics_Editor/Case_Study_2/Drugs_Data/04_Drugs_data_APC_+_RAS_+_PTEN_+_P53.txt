@@ -1,0 +1,41 @@
+{
+  "Drugs": [
+    {
+      "DrugName": "APC_+_RAS_+_PTEN_+_P53",
+      "Mutations": [
+        {
+          "NodeName": "apc",
+          "NodeValue": "0",
+          "Discription": "",
+          "Type": "Knock Down",
+          "InstreamRule": null,
+          "OutstreamRules": null
+        },
+        {
+          "NodeName": "ras",
+          "NodeValue": "1",
+          "Discription": "",
+          "Type": "Knock Up",
+          "InstreamRule": null,
+          "OutstreamRules": null
+        },
+        {
+          "NodeName": "pten",
+          "NodeValue": "0",
+          "Discription": "",
+          "Type": "Knock Down",
+          "InstreamRule": null,
+          "OutstreamRules": null
+        },
+        {
+          "NodeName": "pfivethree",
+          "NodeValue": "0",
+          "Discription": "",
+          "Type": "Knock Down",
+          "InstreamRule": null,
+          "OutstreamRules": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "Drugs": [
+    {
+      "DrugName": "Nutlin",
+      "Mutations": [
+        {
+          "NodeName": "Mdm2->p53",
+          "NodeValue": "0",
+          "Discription": null,
+          "Type": "Link",
+          "InstreamRule": null,
+          "OutstreamRules": null
+        }
+      ]
+    }
+  ]
+}

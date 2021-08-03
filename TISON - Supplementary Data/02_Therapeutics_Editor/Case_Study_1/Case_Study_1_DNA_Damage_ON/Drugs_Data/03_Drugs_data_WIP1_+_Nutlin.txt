@@ -1,0 +1,25 @@
+{
+  "Drugs": [
+    {
+      "DrugName": "Wip1_+_Nutlin",
+      "Mutations": [
+        {
+          "NodeName": "Mdm2->p53",
+          "NodeValue": "0",
+          "Discription": null,
+          "Type": "Link",
+          "InstreamRule": null,
+          "OutstreamRules": null
+        },
+        {
+          "NodeName": "Wip1",
+          "NodeValue": "",
+          "Discription": "",
+          "Type": "Knock Out",
+          "InstreamRule": null,
+          "OutstreamRules": null
+        }
+      ]
+    }
+  ]
+}

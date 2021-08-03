@@ -1,0 +1,3 @@
+v"Network Type: Weight Based
+Analysis Type: Deterministic Analysis
+Network Name: p53 Network with DNA Damage - ON"

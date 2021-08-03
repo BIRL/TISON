@@ -1,0 +1,25 @@
+{
+  "Drugs": [
+    {
+      "DrugName": "APC_+_RAS",
+      "Mutations": [
+        {
+          "NodeName": "apc",
+          "NodeValue": "0",
+          "Discription": "",
+          "Type": "Knock Down",
+          "InstreamRule": null,
+          "OutstreamRules": null
+        },
+        {
+          "NodeName": "ras",
+          "NodeValue": "1",
+          "Discription": "",
+          "Type": "Knock Up",
+          "InstreamRule": null,
+          "OutstreamRules": null
+        }
+      ]
+    }
+  ]
+}
