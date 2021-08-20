@@ -1,0 +1,40 @@
+[
+  {
+    "LayerId": "4dd5c1ac-7175-4704-8fb5-0734f5ba15d8",
+    "LayerName": "Initial37C_Boundary45C",
+    "LayerConcentration": "",
+    "LayerMatrix": "",
+    "DiffusionConstant": 9.8388E-08,
+    "InitialConcentration": 37.0,
+    "TimeStepSize": 0.01,
+    "T_initial": 0.0,
+    "T_final": 5.0,
+    "UpperBound": 3,
+    "LowerBound": -2,
+    "EnvId": "406c4402-8946-bca4-7e12-f96edb534a58",
+    "Z_index": 0,
+    "BoundaryCondition": 45.0,
+    "Description": "",
+    "DateTime": "2021-06-30T11:41:53.35",
+    "InitialConcentrationArray": null
+  },
+  {
+    "LayerId": "9a4e11b2-5dc8-45cc-8e54-f71694279ea6",
+    "LayerName": "Initial37C_Boundary10C",
+    "LayerConcentration": "",
+    "LayerMatrix": "",
+    "DiffusionConstant": 9.8388E-08,
+    "InitialConcentration": 37.0,
+    "TimeStepSize": 0.01,
+    "T_initial": 0.0,
+    "T_final": 5.0,
+    "UpperBound": 3,
+    "LowerBound": -2,
+    "EnvId": "406c4402-8946-bca4-7e12-f96edb534a58",
+    "Z_index": 0,
+    "BoundaryCondition": 10.0,
+    "Description": "",
+    "DateTime": "2021-06-30T11:41:53.353",
+    "InitialConcentrationArray": null
+  }
+]+=splitWS+=100

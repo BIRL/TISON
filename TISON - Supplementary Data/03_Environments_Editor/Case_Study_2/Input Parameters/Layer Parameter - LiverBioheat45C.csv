@@ -1,0 +1,8 @@
+Environment Name: LiverTissue_1000mm3
+Layer Name: Initial37C_Boundary45C
+Initial Concentration: 37
+Diffusion Constant: 1.3614E-07
+Physical time: 5
+World size: 100
+Timestep size: 0.01
+Boundary value : 45

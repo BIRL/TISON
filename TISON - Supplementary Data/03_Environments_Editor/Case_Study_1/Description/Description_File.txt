@@ -1,0 +1,2 @@
+Environment Type: Skin Tissue
+Analysis Type: Alternating Direct Implicit
