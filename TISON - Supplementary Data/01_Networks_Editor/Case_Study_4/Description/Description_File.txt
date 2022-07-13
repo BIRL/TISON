@@ -1,3 +1,0 @@
-Network Type: Weight Based
-Analysis Type: Ordinary Differential Equation
-Network Name: Stem Cell Network

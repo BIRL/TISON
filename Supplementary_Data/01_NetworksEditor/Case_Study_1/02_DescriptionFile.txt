@@ -1,0 +1,3 @@
+Network Name: Human Signaling Network
+Network Type: Rules-Based
+Analysis Type: Deterministic Analysis

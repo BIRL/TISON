@@ -1,2 +1,0 @@
-Environment Type: Liver Tissue
-Analysis Type: Alternating Direct Implicit
