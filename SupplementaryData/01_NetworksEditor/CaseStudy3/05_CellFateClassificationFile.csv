@@ -1,0 +1,14 @@
+,Cln3,MBF,SBF,Cln12,Cdh1,Swi5,Cdc20,Clb56,Sic1,Clb12,Mcm1
+StationaryG1phase,0,0,0,0,1,0,0,0,1,0,0
+ExcitedG1state,0,0,0,0,1,1,0,0,1,0,0
+Mphase,0,0,0,0,1,1,1,0,1,0,0
+Mphase,0,0,0,0,0,1,1,0,1,0,1
+Mphase,0,0,0,0,0,1,1,0,1,1,1
+Mphase,0,0,0,0,0,1,1,0,0,1,1
+Mphase,0,0,0,1,0,0,1,1,0,1,1
+G2phase,0,1,1,1,0,0,0,1,0,1,1
+Sphase,0,1,1,1,0,0,0,1,0,0,0
+ExcitedG1state,0,1,1,1,0,0,0,0,0,0,0
+ExcitedG1state,0,1,1,1,1,0,0,0,1,0,0
+ExcitedG1state,0,1,1,0,1,0,0,0,1,0,0
+Startsignal,1,0,0,0,1,0,0,0,1,0,0

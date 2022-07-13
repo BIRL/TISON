@@ -1,0 +1,3 @@
+Network Name: Yeast Cell Cycle Network
+Network Type: Weight-Based
+Analysis Type: Probabilistic Analysis

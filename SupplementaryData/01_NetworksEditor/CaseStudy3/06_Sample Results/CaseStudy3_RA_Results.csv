@@ -1,0 +1,11 @@
+Stationary G1 phase,Uncharacterized,Excited G1 state,M phase,S phase,G2 phase,Start signal
+0.506752567,0.473326865,0.006677239,0.010464761,0.001137073,0.001134235,0.00050726
+,,,,,,
+ ,MEAN,SD,SEM,,,
+Stationary G1 phase,0.506752567,NaN,NaN,,,
+Uncharacterized,0.473326865,NaN,NaN,,,
+Excited G1 state,0.006677239,NaN,NaN,,,
+M phase,0.010464761,NaN,NaN,,,
+S phase,0.001137073,NaN,NaN,,,
+G2 phase,0.001134235,NaN,NaN,,,
+Start signal,0.00050726,NaN,NaN,,,
