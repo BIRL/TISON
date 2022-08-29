@@ -1,0 +1,1 @@
+{"Drugs":[{"DrugName":"Nutlin","Drugid":"56a58f44-a480-0323-a0d8-26a5df0e03b6","ExpressionFileData":[],"Calculatebasalvalues":false,"Mutations":[{"NodeName":"Mdm2->p53","NodeValue":"0","Description":null,"Type":"Link","FixedCheck":"False","InstreamRule":null,"OutstreamRules":null}]}]}

@@ -1,0 +1,7 @@
+
+Attractor,Associated Cell Fate,Basin Ratio,Attractor Type,atm,p53,mdm2,mdmx,wip1,cycg,pten,p21,akt,cyce,rb,e2f1,p14arf,bcl2,bax,caspases
+
+1,Apoptosis,0.13672,Point,0,1,1,0,1,1,0,0,1,1,0,1,0,0,1,1
+2,Senescence,0.75781,Point,0,1,1,0,1,1,0,0,1,1,0,1,0,1,0,0
+3,Apoptosis,0.09766,Point,0,1,1,0,1,1,0,1,1,0,0,1,0,0,1,1
+4,Senescence,0.00781,Point,0,1,1,0,1,1,0,1,1,0,0,1,0,1,0,0

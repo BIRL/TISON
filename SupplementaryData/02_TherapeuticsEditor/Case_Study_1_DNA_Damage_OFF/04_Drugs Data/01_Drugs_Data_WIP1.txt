@@ -1,0 +1,1 @@
+{"Drugs":[{"DrugName":"WIP1_Inhibition","Drugid":"9eb18f64-0b1c-2f35-3870-5917a76ee928","ExpressionFileData":[],"Calculatebasalvalues":false,"Mutations":[{"NodeName":"Wip1","NodeValue":"","Description":null,"Type":"Knock Out","FixedCheck":"False","InstreamRule":null,"OutstreamRules":null}]}]}

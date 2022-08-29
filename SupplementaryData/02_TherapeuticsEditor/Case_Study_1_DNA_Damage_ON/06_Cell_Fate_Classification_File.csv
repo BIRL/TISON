@@ -1,0 +1,7 @@
+,p53,p21,CycE,caspases
+Proliferation,0,0,1,0
+Senescence,1,0,1,0
+Senescence,1,1,0,0
+Apoptosis,1,1,0,1
+Apoptosis,1,0,1,1
+CellCycleArrest,,2,2,
