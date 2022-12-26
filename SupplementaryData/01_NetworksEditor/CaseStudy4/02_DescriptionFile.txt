@@ -1,3 +1,0 @@
-Network Name: Stem Cell Signaling Network
-Network Type: Weight-Based
-Analysis Type: Ordinary Differential Equation Analysis

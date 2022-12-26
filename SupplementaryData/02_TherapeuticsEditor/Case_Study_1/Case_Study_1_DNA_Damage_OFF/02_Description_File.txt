@@ -1,3 +1,0 @@
-Network Name: p53 Network with DNA Damage - OFF
-Network Type: Weight-Based
-Analysis Type: Deterministic Analysis

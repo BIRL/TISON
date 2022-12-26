@@ -1,7 +1,0 @@
-NormalProliferation,Metastasis,AbnormalProliferation, ,EGF,ECM,alphaqlig,alphailig,alphaslig,alphaonetwoonethreelig,stress,ILoneTNF,Extpump,Fas,Wnt,Tgfb,DNAdamage
-0.80881,0.119245,0.072325, ,1,1,0,0,0,0,0,0,0,0,1,0,0
-,,,,,,,,,,,,,,,,
- ,MEAN,SD,SEM,,,,,,,,,,,,,
-NormalProliferation,0.80881,NaN,NaN,,,,,,,,,,,,,
-Metastasis,0.119245,NaN,NaN,,,,,,,,,,,,,
-AbnormalProliferation,0.072325,NaN,NaN,,,,,,,,,,,,,
