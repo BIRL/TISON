@@ -9,5 +9,5 @@ Theatre for In silico Systems Oncology
 
 [Download Case-studies Data](https://mega.nz/folder/Y3pzFbIA#_EUJqPFqJSl51HxhmpqBPg)
 
-[Repoet Bug](https://github.com/BIRL/TISON/issues)
+[Report Bug](https://github.com/BIRL/TISON/issues)
 
