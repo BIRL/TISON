@@ -7,7 +7,7 @@ Theatre for In silico Systems Oncology
 
 [Video Tutorials](https://www.youtube.com/channel/UCYauPMpf6zfAt4agNMY7K1Q/playlists)
 
-[Download Case-studies data](https://mega.nz/folder/Y3pzFbIA#_EUJqPFqJSl51HxhmpqBPg)
+[Download Case-studies Data](https://mega.nz/folder/Y3pzFbIA#_EUJqPFqJSl51HxhmpqBPg)
 
 [Repoet Bug](https://github.com/BIRL/TISON/issues)
 
